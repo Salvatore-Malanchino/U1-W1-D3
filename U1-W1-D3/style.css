@@ -1,0 +1,75 @@
+main{ 
+    display: block inline;
+    width: 50%;
+    margin-right: 40em ;
+    margin-left:40em ;
+}
+
+.logo{
+    margin: 0 26em  auto;
+}
+
+.immagine{
+    border:  solid #ffffff;
+    padding: 1px;
+border-radius: 3%;
+width: 29em;
+}
+
+
+ .Titolino{
+display: block inline;
+    margin-bottom: 5em;
+    text-align: center;
+    margin-top: 0;
+    background: linear-gradient(356deg, #cec8a7e6, #c96767db);
+    color: rgb(255, 255, 255);
+    
+}
+    
+
+.hr1{
+    padding: 1px;
+    margin: -5;
+    margin-top: 1.2em; 
+    border: 10px;
+    margin-bottom: 0;
+    width: 100%;
+    background: linear-gradient(356deg, #ffd900e6, #644201db);}
+    
+    #featured{
+        margin-bottom: 4em;
+    }
+    
+    
+    .featured{
+        color: #860b0bd5;
+        margin-bottom: 0;
+        margin-top: 1em;
+
+    }
+    .fresh{
+        color: rgb(255, 145, 0);
+        
+        
+        
+        
+    }
+    .hr2{padding: 1px;
+        margin: -5;
+        margin-top: 1.2em; 
+        border: 10px;
+        margin-bottom: 0;
+        width: 100%;
+        background: linear-gradient(356deg, #ffd900e6, #644201db);
+    }
+
+ul li{
+    margin-bottom:1em ;
+}
+.sally{
+    color: #72620be6;
+    margin-left: 45em;
+}
+
+    
